@@ -27,5 +27,5 @@ Backup Important Data: Always back up any important data before performing disk 
 Using dd is a powerful method for cloning drives, but it requires caution and attention to detail to avoid potential pitfalls.
 
 
-
+# How You Can Help:
 Let me know if you want more apps for this image through the Discussions Tab on GitHub
