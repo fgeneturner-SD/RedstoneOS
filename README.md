@@ -26,6 +26,7 @@ Drive Size: Ensure that the destination drive is at least as large as the source
 Backup Important Data: Always back up any important data before performing disk cloning operations, as mistakes can lead to data loss. 
 Using dd is a powerful method for cloning drives, but it requires caution and attention to detail to avoid potential pitfalls.
 
-
+# How to change password
+Open terminal and type passwd
 # How You Can Help:
 Let me know if you want more apps for this image through the Discussions Tab on GitHub
