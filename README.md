@@ -1,5 +1,6 @@
 # RedstoneOS
 The World's first Linux Minecraft client os based on kde neon
+Default password: Minecraft
 
 
 #  How to Install when booted off of the  flash drive:
